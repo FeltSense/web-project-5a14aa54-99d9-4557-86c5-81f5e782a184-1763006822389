@@ -171,9 +171,9 @@ export default function Services() {
 
         {/* Code snippet decoration */}
         <div className="absolute bottom-4 right-4 opacity-10 font-mono text-xs text-indigo-200">
-          <div>{&apos;<algorithm>&apos;}</div>
+          <div>{'<algorithm>'}</div>
           <div className="pl-4">{'compute(B₀...Bₙ)'}</div>
-          <div>{&apos;</algorithm>&apos;}</div>
+          <div>{'</algorithm>'}</div>
         </div>
       </div>
 
